@@ -1,48 +1,44 @@
-# DanteCardHack
-DanteTool est un outil éducatif pour générer et vérifier des cartes bancaires simulées. Il inclut une validation Luhn, des vérifications des BIN via une API, et une interface interactive avec des animations "hacker". Utilisé dans un cadre d'apprentissage de la sécurité des paiements, cet outil est destiné à des fins pédagogiques uniquement.
+DanteCardHack
+DanteTool - Hack The System Tool
+DanteTool est un outil éducatif conçu pour générer et vérifier des cartes bancaires simulées. Il comprend une validation Luhn, des vérifications des BIN via une API, et une interface interactive avec des animations "hacker". Cet outil est destiné à des fins pédagogiques et d'apprentissage des systèmes de validation des cartes bancaires, en explorant la sécurité des paiements. Il ne doit être utilisé que dans un cadre légal et éthique.
 
-# DARK_DANTE - Hack The System Tool
+Développé par DARK_DANTE
+Ce projet a été développé par DARK_DANTE dans le but d'offrir un outil d'apprentissage des systèmes de validation des cartes bancaires. Il permet à la communauté de mieux comprendre les processus de validation et les API de vérification de BIN. Ce script doit être utilisé uniquement à des fins éducatives et légales.
 
-Ce projet est un outil éducatif développé par **DARK_DANTE** pour générer et vérifier des cartes bancaires. Il est conçu à des fins d'apprentissage et de découverte des systèmes de validation de cartes. **N'utilisez ce script que de manière légale et éthique.**
+Contacter DARK_DANTE
+Si vous avez des questions, des suggestions ou si vous souhaitez collaborer, vous pouvez me contacter directement via les plateformes suivantes :
 
-## Contacter DARK_DANTE
+Telegram : @DARK_DANTE_OFF
 
-Pour toute question, support ou collaboration, vous pouvez me contacter directement via les plateformes suivantes :
+WhatsApp : +221784180290
 
-- **Telegram** : [@DARK_DANTE_OFF](https://t.me/DARK_DANTE_OFF)
-- **WhatsApp** : +221784180290
+N'hésitez pas à me contacter pour toute assistance, proposition d'améliorations, ou pour toute question concernant le fonctionnement du script.
 
-N'hésitez pas à m'écrire si vous avez besoin d'aide avec le script, des améliorations à proposer, ou si vous avez des questions sur le fonctionnement.
+Prérequis
+Assurez-vous que Python 3.x est installé sur votre machine.
 
-## Prérequis
+Les bibliothèques Python suivantes doivent être installées :
 
-1. Python 3.x installé sur votre machine.
-2. Les bibliothèques Python suivantes doivent être installées :
-   - `colorama`
-   - `requests`
+``colorama``
 
-   Vous pouvez installer ces bibliothèques avec la commande suivante :
-   ```bash
-   pip install colorama requests
+``requests``
+
+Vous pouvez installer ces dépendances avec la commande :
+$ pip install colorama requests
 
 Installation
-Clonez ce repository :
-```bash
-git clone https://github.com/votre-nom-utilisateur/DARK_DANTE_Hack_The_System_Tool.git
+Clonez ce repository dans votre machine :
+$ git clone https://github.com/DARK-DANTE-OFF/DanteCardHack/
 
-```bash
-cd DARK_DANTE_Hack_The_System_Tool
-
-Ensuite, assurez-vous que toutes les dépendances sont installées :
-```bash
-pip install -r requirements.txt
+Ensuite, accédez au dossier du projet et installez les dépendances nécessaires :
+$ cd DARK_DANTE_CARD_TOOL
 
 Utilisation
-Exécutez le script Python avec la commande :
-```bash
-python dark_dante_tool.py
+Pour exécuter le script, lancez la commande suivante :
+$ python dark_dante_tool.py
 
-Le script vous proposera un menu pour générer des cartes ou les vérifier. Suivez les instructions à l'écran pour interagir avec le programme.
+Le script affichera un menu interactif qui vous permettra de générer des cartes ou de les vérifier. Suivez les instructions à l'écran pour interagir avec l'outil.
 
 Licence
-Ce projet est sous la licence MIT License. Consultez le fichier LICENSE pour plus d'informations.
+Ce projet est sous la MIT License. Pour plus de détails, veuillez consulter le fichier LICENSE.
+
