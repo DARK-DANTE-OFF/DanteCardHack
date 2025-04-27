@@ -27,7 +27,6 @@ N'hésitez pas à m'écrire si vous avez besoin d'aide avec le script, des amél
 
 Installation
 Clonez ce repository :
-
 ```bash
 git clone https://github.com/votre-nom-utilisateur/DARK_DANTE_Hack_The_System_Tool.git
 
@@ -35,12 +34,11 @@ git clone https://github.com/votre-nom-utilisateur/DARK_DANTE_Hack_The_System_To
 cd DARK_DANTE_Hack_The_System_Tool
 
 Ensuite, assurez-vous que toutes les dépendances sont installées :
-
 ```bash
 pip install -r requirements.txt
+
 Utilisation
 Exécutez le script Python avec la commande :
-
 ```bash
 python dark_dante_tool.py
 
