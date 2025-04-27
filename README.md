@@ -28,24 +28,22 @@ N'hésitez pas à m'écrire si vous avez besoin d'aide avec le script, des amél
 Installation
 Clonez ce repository :
 
-bash
-Copier
-Modifier
+```bash
 git clone https://github.com/votre-nom-utilisateur/DARK_DANTE_Hack_The_System_Tool.git
+
+```bash
 cd DARK_DANTE_Hack_The_System_Tool
+
 Ensuite, assurez-vous que toutes les dépendances sont installées :
 
-bash
-Copier
-Modifier
+```bash
 pip install -r requirements.txt
 Utilisation
 Exécutez le script Python avec la commande :
 
-bash
-Copier
-Modifier
+```bash
 python dark_dante_tool.py
+
 Le script vous proposera un menu pour générer des cartes ou les vérifier. Suivez les instructions à l'écran pour interagir avec le programme.
 
 Licence
